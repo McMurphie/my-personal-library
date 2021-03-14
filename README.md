@@ -1,1 +1,1 @@
-my personal library
+my personal library with personal templates
